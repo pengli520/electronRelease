@@ -1,5 +1,7 @@
 node_modules
-dist
+dist/win-unpacked
+dist/*.yml
+dist/*.blockmap
 out
 cache
 *.log*
