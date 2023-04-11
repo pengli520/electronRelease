@@ -31,7 +31,7 @@
     "jsdom": "^21.1.0",
     "jsonwebtoken": "^9.0.0",
     "opencv.js": "^1.2.1",
-    "playwright": "^1.31.1",
+    "playwright": "^1.32.3",
     "request": "^2.88.2",
     "unplugin-vue-components": "^0.24.0",
     "url": "^0.11.0",
