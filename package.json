@@ -27,7 +27,7 @@
     "ant-design-vue": "^3.2.15",
     "electron-updater": "^5.3.0",
     "electron-vite": "^1.0.20",
-    "jimp": "^0.22.7",
+    "jimp": "^0.22.8",
     "jsdom": "^21.1.0",
     "jsonwebtoken": "^9.0.0",
     "opencv.js": "^1.2.1",
