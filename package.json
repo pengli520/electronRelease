@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@ant-design/icons-vue": "^6.1.0",
-    "@electron-toolkit/preload": "^1.0.3",
+    "@electron-toolkit/preload": "^2.0.0",
     "@electron-toolkit/utils": "^1.0.2",
     "@mapbox/node-pre-gyp": "^1.0.10",
     "ant-design-vue": "^3.2.15",
